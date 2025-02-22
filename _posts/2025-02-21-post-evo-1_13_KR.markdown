@@ -52,7 +52,7 @@ featured: true
 
 이 새로운 스킨은 아래 버튼을 눌러 스킨 메뉴에 접속한 뒤에 사용할 수 있습니다.
 
-![]({{site.baseurl}}/images/tut-menubar.png.png)
+![]({{site.baseurl}}/images/tut-menubar.png)
 
 
 ### 밸런스 수정
