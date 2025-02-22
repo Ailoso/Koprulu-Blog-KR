@@ -2,7 +2,7 @@
 layout: post
 title:  SC Evo Complete 모드 v. 1.13
 description: 밸런스 수정
-date:   2025-02-23 01:00:00 +0900
+date:   2025-02-22 21:00:00 +0900
 image:  '/images/EvoExtension1_13.png'
 tags:   [모드, 밸런스, 레거시, 신규 모델링, 버그 픽스]
 featured: true
