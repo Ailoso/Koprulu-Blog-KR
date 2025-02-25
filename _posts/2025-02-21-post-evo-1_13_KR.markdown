@@ -1,12 +1,24 @@
 ---
 layout: post
-title:  SC Evo Complete 모드 v. 1.13
+title:  SC Evo Complete 모드 v. 1.13.1
 description: 밸런스 수정
 date:   2025-02-22 21:00:00 +0900
 image:  '/images/EvoExtension1_13.png'
 tags:   [모드, 밸런스, 레거시, 신규 모델링, 버그 픽스]
 featured: true
 ---
+
+## 업데이트 v. 1.13.1
+
+이번 소규모 업데이트는 몇몇 신규 애니메이션과 모델링을 담고 있습니다.
+
+- 신규 리버 모델링을 추가하였습니다.Added new Reaver unit model
+![]({{site.baseurl}}/images/modelpreview-reaver.png)
+- 신규 프로토스 구조물 모델링 추가 (깜짝 선물입니다!)
+- 파이어뱃 애니메이션을 갱신하였습니다.
+- 마린 초상화 텍스처를 갱신하였습니다.
+
+***
 
 ## 에보 컴플리트 v. 1.13
 
