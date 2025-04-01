@@ -145,7 +145,7 @@ featured: true
 - 이제 브루들링 소환이 8배 많은 브루들링을 소환합니다.
 - 인스네어가 적중한 유닛의 이동속도를 100% 감소시킵니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50"> 럴커
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> 럴커
 - 럴커의 사거리가 1로 감소하였습니다.
 - 럴커의 피해량이 10배 증가하였습니다.
 
