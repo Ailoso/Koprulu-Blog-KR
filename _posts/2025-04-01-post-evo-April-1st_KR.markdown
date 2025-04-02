@@ -119,7 +119,7 @@ featured: true
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-overlord@scbw.png" width="50" height="50"> 오버로드
 - 이제 오버로드가 나아졌습니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> 저글링
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> 저글링
 - 이제 아드레날린 업그레이드를 마친 저글링이 약빱니다.
 - 저글링의 기본 피해량이 5에서 50으로 증가하였습니다.
 - 저글링의 공격 주기가 0.6에서 6으로 증가하였습니다.
