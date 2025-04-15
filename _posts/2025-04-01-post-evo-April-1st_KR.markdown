@@ -5,7 +5,6 @@ description: 밸런스 수정
 date:   2025-04-01 15:00:00 +0900
 image:  '/images/EvoApril1st.png'
 tags:   [모드, 밸런스]
-featured: true
 ---
 
 ## 에보 컴플리트 v. 2.0
